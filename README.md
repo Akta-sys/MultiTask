@@ -18,7 +18,7 @@ O **MultiTask** é um sistema desktop de gerenciamento de tarefas desenvolvido e
 
 ## 👥 Time de Desenvolvedores
 
-- **Desenvolvedor:** [Seu Nome Completo]
+- **Desenvolvedor:** Guilherme Alves Cordeiro Barros
 - **Data de Início:** Fevereiro de 2026
 - **Status Atual:** Etapa 5 - Versionamento com GitHub
 
